@@ -1,0 +1,29 @@
+# General Ignores + IDE
+.DS_Store
+settings.xml
+WEB-INF
+.vscode/*
+*.code-workspace
+includes/*
+.cfformat.json
+
+# Mac/OSX
+.DS_Store
+
+# logs + tests
+logs/**
+tests/results/**
+
+# npm
+**/node_modules/*
+npm-debug.log
+yarn-error.log
+
+## Ignored Dependencies
+coldbox/*
+testbox/*
+modules/*
+**/apidocs/**
+
+# Environments
+.env
