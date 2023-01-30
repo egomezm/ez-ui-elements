@@ -1,23 +1,20 @@
 
-# Project Title
+# EZ-UI-Elements
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [*](https://shields.io/)
 
-A brief description of what this project does and who it's for
+This is a Quick and easy way to create common elements for your site
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- form Elements
 
 
 ## Documentation
 
-Info goes here...
+Here are the step by step instruction on how to start using this package.
 
 
 ## Run Locally
@@ -25,13 +22,13 @@ Info goes here...
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/egomezm/ez-ui-elements
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd ez-ui-elements
 ```
 
 Install dependencies
@@ -52,26 +49,18 @@ Start the server
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install ez-ui-elements
+  cd ez-ui-elements
 ```
-    ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Usage/Examples
 
 ```javascript
-import Component from 'my-project'
+import EzTextInput from 'ez-ui-elements'
 
 function App() {
-  return <Component />
+  return <EzTextInput />
 }
 ```
 
