@@ -1,7 +1,7 @@
 
 # EZ-UI-Elements
-[![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/ez-ui-elements)
-[![Repo Size](https://img.shields.io/github/repo-size/egomezm/repo-template)](https://github.com/egomezm/ez-ui-elements)
+[![Files](https://img.shields.io/github/directory-file-count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
+[![Repo Size](https://img.shields.io/github/repo-size/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [*](https://shields.io/)
 
 This is a Quick and easy way to create common elements for your site
