@@ -2,6 +2,7 @@
 # EZ-UI-Elements
 [![Version](https://img.shields.io/github/package-json/v/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements/blob/main/package.json)
 [![Downlods](https://img.shields.io/github/downloads/egomezm/ez-ui-elements/total)](https://github.com/egomezm/ez-ui-elements/blob/main/package.json)
+[![Issues](https://img.shields.io/github/issues/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements/blob/main/package.json)
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Languages](https://img.shields.io/github/languages/count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
