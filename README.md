@@ -71,5 +71,6 @@ function App() {
 }
 ```
 
+https://onlyoneaman.medium.com/creating-an-npm-package-from-react-component-ee5b0ba0cd49
 
 
