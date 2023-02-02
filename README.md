@@ -5,7 +5,7 @@
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Languages](https://img.shields.io/github/languages/count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
-[![All Contributors](https://img.shields.io/github/all-contributors/contributors/contributors/master)](https://github.com/egomezm/ez-ui-elements)
+<!-- [![All Contributors](https://img.shields.io/github/all-contributors/contributors/contributors/master)](https://github.com/egomezm/ez-ui-elements) -->
 
 [*](https://shields.io/)
 
