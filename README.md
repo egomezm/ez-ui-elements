@@ -3,8 +3,10 @@
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
 [![Version](https://img.shields.io/github/package-json/v/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
-[![All COntributors](https://img.shields.io/github/repo-size/egomezm/ez-ui-elements)](https://github.com/egomezm/ez-ui-elements)
+[![All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master)](https://github.com/egomezm/ez-ui-elements)
 [*](https://shields.io/)
+
+https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master
 
 This is a Quick and easy way to create common elements for your site
 
